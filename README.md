@@ -5,3 +5,5 @@ displays current time
 able to set the current time with push buttons
 able to set the alarm time and beeps when the alarm time is reached
 Programmed in 8051 Assembly
+
+the LCD Display inc file credit Dr.Calvino Fraga
